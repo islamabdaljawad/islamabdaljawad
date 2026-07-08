@@ -11,8 +11,8 @@
 - 🌱 I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture
 - ✍️ In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles
 - 💬 Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion
-- ✉️ You can shoot me an email at [avsingh@umass.edu](mailto:avsingh@umass.edu) — I'll try to respond as soon as I can
-- 📄 Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+- ✉️ You can shoot me an email at [Islam@umass.edu](mailto:islamzabdzallah@gmail.com) — I'll try to respond as soon as I can
+- 📄 Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="280">
 
