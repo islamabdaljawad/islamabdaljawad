@@ -78,4 +78,4 @@
 
 ---
 
-<p align="center"><i>Credit: <a href="https://github.com/AVS1508">Aditya Vikram Singh</a></i></p>
+<p align="center"><i>Credit: <a href="https://github.com/islamabdaljawad">Islam Alsharif</a></i></p>
